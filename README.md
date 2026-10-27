@@ -11,4 +11,4 @@ A Python-based high-energy physics analysis pipeline utilizing CERN Open Data, `
 ## Key Results
 The invariant mass spectrum cleanly isolates the $J/\psi$ peak (~3.1 GeV/$c^2$) and the $Z$ boson peak (~91 GeV/$c^2$).
 
-![Resonance Spectrum](z_boson_reconstruction.png)
+![Resonance Spectrum](resonance_spectrum.png)
